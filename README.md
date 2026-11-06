@@ -1,22 +1,66 @@
-Hi 👋, I'm Michelle Betancurt
-Desarrolladora Full-stack
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michelbarros178-dot&label=Profile views&color=0e75b6&style=flat" alt="michelbarros178-dot" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michelbarros178-dot" alt="michelbarros178-dot" /></a> </p>
-🔭 I'm currently working on **Actualmente estoy trabajando en un proyecto para una peluquería canina y a la vez proyecto de grados del sena **
-🌱 I'm currently learning **Actualmente estoy aprendiendo PostgreSQL, Python y Docker **
-🤝 I'm looking for help with **Estoy buscando ayuda con Java, Js y mejorar mis habilidades como Full-Stack **
-💬 Ask me about **PHP, SQL, XAMPP, SupaBase, CSS, Django, Python, GitHub **
-📫 How to reach me michelbarros178@gmail.com Celular: 3146548377
-⚡ Fun fact Me gusta estar en constante mejora y ser disciplinada en mi trabajo
-👨‍💻 All of my projects are available at https://github.com/michelbarros178-dot
-📄 Know about my experiences https://drive.google.com/drive/folders/1GSaqn6i7_weHlY-DddBb60dLd1IwbdrF
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/michelbarros178-dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="michelbarros178-dot" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<h1 align="center">¡Hola! 👋 Soy Michelle Betancurt</h1>
+<h3 align="center">Desarrolladora Full-Stack & Estudiante de Tecnología en SENA</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=michelbarros178-dot&label=Profile%20views&color=0e75b6&style=flat-square" alt="Visitas al perfil" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelbarros178-dot&show_icons=true&locale=en&layout=compact" alt="michelbarros178-dot" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelbarros178-dot&show_icons=true&locale=en" alt="michelbarros178-dot" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michelbarros178-dot&" alt="michelbarros178-dot" /></p>
+
+---
+
+### 🚀 Sobre mí
+
+* 🔭 **Proyecto actual:** Desarrollando una aplicación web de gestión para una peluquería canina (**Kuky Pets**), mi proyecto de grado en el SENA.
+* 🌱 **Aprendiendo y reforzando:** PostgreSQL, Python y Docker.
+* 🤝 **Colaboración:** Buscando profundizar en **Java**, **JavaScript** y mejores prácticas de arquitectura Full-Stack.
+* 💬 **Pregúntame sobre:** PHP, Django, SQL, Laravel, Supabase, CSS y control de versiones con Git/GitHub.
+* ⚡ **Dato curioso:** Me apasiona la disciplina, la mejora continua y resolver retos técnicos en equipo.
+
+---
+
+### 📫 Contacto & Redes
+
+<p align="left">
+  <a href="mailto:michelbarros178@gmail.com">
+    <img src="https://img.shields.io/badge/Email-michelbarros178%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1GSaqn6i7_weHlY-DddBb60dLd1IwbdrF" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Experiencias" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Lenguajes y Herramientas
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" alt="Frontend Tech" />
+  <br><br>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,nodejs" alt="Backend Tech" />
+  <br><br>
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,docker,git,github,postman" alt="Databases & Tools" />
+</p>
+
+---
+
+### 🏆 Trofeos & Estadísticas de GitHub
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=michelbarros178-dot&theme=flat&margin-w=15" alt="Trofeos GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=michelbarros178-dot&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelbarros178-dot&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michelbarros178-dot&theme=tokyonight" alt="Racha de commits" />
+</p>
