@@ -1,85 +1,90 @@
+<!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Michelle%20Betancurt%20here%20🔥&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1b27&height=230&section=header&text=Michelle%20Betancurt&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desarrolladora%20Full-Stack&descSize=22&descAlignY=58" alt="Banner" width="100%" />
 </p>
 
-<h2 align="center">¡Hola! 🙏 Soy Michelle Betancurt</h2>
-<h3 align="center">Desarrolladora Full-Stack & Estudiante de Tecnología en SENA</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Estudiante+de+An%C3%A1lisis+y+Desarrollo+de+Software+%7C+SENA;Desarrollo+web+Full-Stack+%7C+APIs+RESTful;Aprendiendo+cada+d%C3%ADa%2C+construyendo+cada+semana" alt="Descripci&oacute;n animada" />
+</p>
+
+<p align="center">
+  <a href="mailto:michelbarros178@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/michel-barros-28a9b4419/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/drive/folders/1GSaqn6i7_weHlY-DddBb60dLd1IwbdrF"><img src="https://img.shields.io/badge/Portafolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Portafolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=michelbarros178-dot&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas al perfil" />
+</p>
 
 ---
 
-### 💫 About Me / Sobre mí
+## Sobre mí
+
+Soy estudiante de **Tecnología en Análisis y Desarrollo de Software (ADSO)** en el **SENA CTGI**. Me apasiona construir aplicaciones web completas, desde la base de datos hasta la interfaz, y mejorar un poco cada día. Me caracterizo por ser disciplinada, constante y buena resolviendo problemas.
+
+| | |
+|---|---|
+| **Proyecto actual** | Plataforma de gestión e interacción para la peluquería canina **Kuky Pets** |
+| **Aprendiendo** | PostgreSQL, Python y Docker |
+| **Busco colaborar en** | Proyectos web, APIs RESTful, Java y JavaScript |
+| **Contacto** | michelbarros178@gmail.com |
+
+---
+
+## Stack tecnológico
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michelbarros178-dot&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,py,django,java&perline=10" alt="Lenguajes y frameworks" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,supabase,docker,git,github,vscode,postman&perline=10" alt="Bases de datos y herramientas" />
 </p>
 
-<p align="left">
-  <img align="right" width="380" src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-4056094-3365851.png" alt="Developer Coding" />
+---
 
-  👋 <b>¡Bienvenido/a a mi perfil!</b> Apasionada por el desarrollo de software y el aprendizaje continuo.<br><br>
-  🎓 <b>Formación:</b> Estudiante de Tecnología en Análisis y Desarrollo de Software (ADSO) en el SENA CTGI.<br><br>
-  🚀 <b>Proyecto actual:</b> Desarrollando una plataforma de gestión e interacción para la peluquería canina <b>Kuky Pets</b>.<br><br>
-  🌱 <b>Actualmente aprendiendo:</b> Profundizando en <code>PostgreSQL</code>, <code>Python</code> y <code>Docker</code>.<br><br>
-  🤝 <b>Buscando colaborar en:</b> Proyectos web, APIs RESTful y fortalecimiento de habilidades en <code>Java</code> y <code>JavaScript</code>.<br><br>
-  ⚡ <b>Dato curioso:</b> Disciplinada, enfocada en la mejora constante y constante resolución de problemas.
+## Proyecto destacado
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0e75b6,100:1a1b27&height=170&section=header&text=Kuky%20Pets&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Plataforma%20para%20peluquer%C3%ADa%20canina&descSize=17&descAlignY=66" alt="Kuky Pets" width="100%" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tipo-Plataforma%20web-0e75b6?style=for-the-badge&labelColor=1a1b27" alt="Tipo" />
+  <img src="https://img.shields.io/badge/Estado-En%20desarrollo-2ea043?style=for-the-badge&labelColor=1a1b27" alt="Estado" />
+</p>
 
-<p align="left">
-  <a href="mailto:michelbarros178@gmail.com">
-    <img src="https://img.shields.io/badge/Email-michelbarros178%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center">
+  <b>Kuky Pets</b> es una plataforma web para la gestión e interacción de una peluquería canina:<br>
+  administración de clientes y servicios, y una experiencia más cercana entre el negocio y sus usuarios.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ValenBV1013/KukyPets">
+    <img src="https://img.shields.io/badge/Ver%20repositorio-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
   </a>
-  <a href="https://www.linkedin.com/in/michel-barros-28a9b4419/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/drive/folders/1GSaqn6i7_weHlY-DddBb60dLd1IwbdrF" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 🎭 Languages & Tools I Have Used / Tecnologías
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,py,django,mysql,postgres,sqlite,mongodb,docker,git,github,vscode,postman" />
-</p>
-
----
-
-### 📊 GitHub Stats / Estadísticas
+## Actividad en GitHub
 
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=michelbarros178-dot&show_icons=true&theme=tokyonight&locale=es&hide_border=true" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelbarros178-dot&layout=compact&theme=tokyonight&locale=es&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=michelbarros178-dot&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michelbarros178-dot&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/michelbarros178-dot?style=for-the-badge&logo=github&color=0e75b6&labelColor=1a1b27" alt="Seguidores" />
 </p>
 
 ---
 
-### 💻 Tech Stack Categorizado
+## Conectemos
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JS%20%7C%20Bootstrap%20%7C%20Tailwind-blue?style=for-the-badge&logo=html5&logoColor=white" /><br><br>
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel%20%7C%20Python%20%7C%20Django-0e75b6?style=for-the-badge&logo=laravel&logoColor=white" /><br><br>
-  <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20PostgreSQL%20%7C%20SQLite%20%7C%20Supabase-darkgreen?style=for-the-badge&logo=postgresql&logoColor=white" /><br><br>
-  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Docker%20%7C%20Git%20%7C%20GitHub%20%7C%20XAMPP%20%7C%20Postman-orange?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-### 💬 Random Dev Quote
+Estoy abierta a colaborar, aprender y recibir feedback. Si te interesa mi trabajo, escríbeme.
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <a href="mailto:michelbarros178@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Escr&iacute;beme" /></a>
+  <a href="https://www.linkedin.com/in/michel-barros-28a9b4419/"><img src="https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0e75b6&height=110&section=footer" alt="Footer" width="100%" />
 </p>
